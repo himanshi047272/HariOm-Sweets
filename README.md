@@ -34,3 +34,7 @@ No package installation or build step is required for the current static applica
 
 - Never commit passwords, API keys, tokens, or private client data.
 - Review changed files before opening a pull request.
+
+## Story Workflow
+- HS-8: Shared page layout and navigation
+- Implementation: Planned for final code integration
