@@ -6,3 +6,4 @@ HS-14|Define product data structure and sample dataset|Feature implementation pe
 HS-15|Display product cards|Feature implementation pending
 HS-16|Browse catalogue by category|Feature implementation pending
 HS-17|Search products by name|Feature implementation pending
+HS-18|Show product detail view|Feature implementation pending
