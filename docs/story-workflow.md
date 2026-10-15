@@ -5,3 +5,4 @@ HS-13|Fix homepage navigation link routing|Feature implementation pending
 HS-14|Define product data structure and sample dataset|Feature implementation pending
 HS-15|Display product cards|Feature implementation pending
 HS-16|Browse catalogue by category|Feature implementation pending
+HS-17|Search products by name|Feature implementation pending
