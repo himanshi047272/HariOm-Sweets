@@ -11,3 +11,4 @@ HS-19|Add catalogue empty and unavailable states|Feature implementation pending
 HS-20|Fix category filter reset behaviour|Feature implementation pending
 HS-21|Fix unavailable product status visibility|Feature implementation pending
 HS-22|Create cake options section|Feature implementation pending
+HS-23|Create cake gallery|Feature implementation pending
