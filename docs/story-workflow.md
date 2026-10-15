@@ -17,3 +17,4 @@ HS-25|Validate and protect enquiry input|Feature implementation pending
 HS-26|Add WhatsApp enquiry handoff|Feature implementation pending
 HS-27|Show enquiry acknowledgement and reference|Feature implementation pending
 HS-28|Fix cake enquiry required-field validation|Feature implementation pending
+HS-29|Fix WhatsApp draft special-character handling|Feature implementation pending
