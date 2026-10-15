@@ -14,3 +14,4 @@ HS-22|Create cake options section|Feature implementation pending
 HS-23|Create cake gallery|Feature implementation pending
 HS-24|Build cake enquiry form|Feature implementation pending
 HS-25|Validate and protect enquiry input|Feature implementation pending
+HS-26|Add WhatsApp enquiry handoff|Feature implementation pending
