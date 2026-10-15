@@ -7,3 +7,4 @@ HS-15|Display product cards|Feature implementation pending
 HS-16|Browse catalogue by category|Feature implementation pending
 HS-17|Search products by name|Feature implementation pending
 HS-18|Show product detail view|Feature implementation pending
+HS-19|Add catalogue empty and unavailable states|Feature implementation pending
