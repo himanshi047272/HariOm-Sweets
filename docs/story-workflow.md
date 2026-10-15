@@ -8,3 +8,4 @@ HS-16|Browse catalogue by category|Feature implementation pending
 HS-17|Search products by name|Feature implementation pending
 HS-18|Show product detail view|Feature implementation pending
 HS-19|Add catalogue empty and unavailable states|Feature implementation pending
+HS-20|Fix category filter reset behaviour|Feature implementation pending
